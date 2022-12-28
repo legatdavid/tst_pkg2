@@ -1,5 +1,5 @@
 # Databricks notebook source
-from .tst_mod import tst_func
+from tst_pkg2.tst_mod import tst_func
 
 
 def test_tst_func():
