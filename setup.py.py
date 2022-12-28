@@ -1,5 +1,5 @@
 # Databricks notebook source
-from setuptools import setup
+from setuptools import setup, find_packages
 
 # Add install requirements
 setup(
